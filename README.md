@@ -1,2 +1,7 @@
 # hello-world
-Hello!
+Hello,
+
+Welcome to my first Git repository!
+
+:D
+
